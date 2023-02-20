@@ -9,3 +9,5 @@ A segunda verificação é se o participante tem idade igual ou superior a 18 an
 Em seguida, é exibido as listas de participantes e palestrantes cadastrados. O limite máximo de participantes permitidos é de 100 pessoas. O código verifica se o número de participantes cadastrados excede esse limite e exibe uma mensagem de erro se isso acontecer.
 
 Caso o número de participantes esteja dentro do limite permitido, o código exibe uma mensagem informando o número total de participantes cadastrados.
+
+![Diagrama do Sietema](Sistema-cadastro-evento/sistema cadastro evento.jpg)

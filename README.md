@@ -1,2 +1,2 @@
 # Atividade - SENAI - Front-end
-## Implementação utilizando Java
+## Implementação utilizando JavaScript

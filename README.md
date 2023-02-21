@@ -10,4 +10,5 @@ Em seguida, é exibido as listas de participantes e palestrantes cadastrados. O 
 
 Caso o número de participantes esteja dentro do limite permitido, o código exibe uma mensagem informando o número total de participantes cadastrados.
 
-! [Diagrama do Sietema](/Sistema-cadastro-evento/sistema cadastro evento.jpg)
+![Diagrama do Sistema](/sistema cadastro evento.jpg)
+

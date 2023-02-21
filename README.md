@@ -10,5 +10,6 @@ Em seguida, é exibido as listas de participantes e palestrantes cadastrados. O 
 
 Caso o número de participantes esteja dentro do limite permitido, o código exibe uma mensagem informando o número total de participantes cadastrados.
 
-![Diagrama do Sistema](/SistemaCadastroEvento.jpg)
+Segue abaixo o diagrama do sistema: <br>
+![Imagem com o diagrama do sistema](/SistemaCadastroEvento.jpg)
 
